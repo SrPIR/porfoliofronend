@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: brown;
+    width: 200px;
+    border: 10px solid rgb(0, 128, 122);
+    padding: 14px;
+    margin: 10px;
+}
